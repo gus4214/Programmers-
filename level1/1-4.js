@@ -1,3 +1,4 @@
+// 자릿수 더하기
 const solution = (n) => {
   const arr = n.toString().split("");
   let result = 0;
