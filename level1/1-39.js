@@ -22,4 +22,4 @@ function solution(s) {
   return parseInt(answer);
 }
 
-console.log(solution("2twotwo45four"));
+solution("2twotwo45four");
